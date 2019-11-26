@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vukov's Space Escape.Plugins", "Vukov's Space Escape.Plugins.csproj", "{8D8338FD-63F5-CC45-0011-00944C50446C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vukov's Space Escape", "Vukov's Space Escape.csproj", "{8DA295C6-8F4D-AAF2-9548-6612EDB3857F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vukov's Space Escape.Editor.Plugins", "Vukov's Space Escape.Editor.Plugins.csproj", "{AA619340-A63B-7805-3704-DD1A47532BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8338FD-63F5-CC45-0011-00944C50446C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8338FD-63F5-CC45-0011-00944C50446C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8338FD-63F5-CC45-0011-00944C50446C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8338FD-63F5-CC45-0011-00944C50446C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA295C6-8F4D-AAF2-9548-6612EDB3857F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA295C6-8F4D-AAF2-9548-6612EDB3857F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA295C6-8F4D-AAF2-9548-6612EDB3857F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA295C6-8F4D-AAF2-9548-6612EDB3857F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA619340-A63B-7805-3704-DD1A47532BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA619340-A63B-7805-3704-DD1A47532BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA619340-A63B-7805-3704-DD1A47532BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA619340-A63B-7805-3704-DD1A47532BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
